@@ -1,0 +1,1 @@
+netcoresdk-aws
